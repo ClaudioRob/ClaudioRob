@@ -1,4 +1,8 @@
-### Hi there 👋
+### :stuck_out_tongue_winking_eye: Olá, seja bem-vindo!
+
+#### "<i>seu trabalho é encontrar algo que você seja bom e depois gastar centenas de horas, e aplicar toda sua perseverança, sacrifício e dedicação para lidar com coisas difíceis e se tornar ótimo naquilo." 
+#### :star: Scott Galloway<i>
+  
 
 <!--
 **claudiors/claudiors** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
