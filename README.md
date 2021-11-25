@@ -1,6 +1,6 @@
 ### :stuck_out_tongue_winking_eye: Olá, seja bem-vindo!
 
-#### "<i>seu trabalho é encontrar algo que você seja bom e depois gastar centenas de horas, e aplicar toda sua perseverança, sacrifício e dedicação para lidar com coisas difíceis e se tornar ótimo naquilo." 
+#### "<i>... seu trabalho é encontrar algo que você seja bom e depois gastar centenas de horas, e aplicar toda sua perseverança, sacrifício e dedicação para lidar com coisas difíceis e se tornar ótimo naquilo." 
 #### :star: Scott Galloway<i>
   
 
