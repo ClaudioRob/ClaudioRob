@@ -2,8 +2,10 @@
 
 #### "<i>... seu trabalho é encontrar algo que você seja bom e depois gastar centenas de horas, e aplicar toda sua perseverança, sacrifício e dedicação para lidar com coisas difíceis e se tornar ótimo naquilo." 
 #### :star: Scott Galloway<i>
-  
 
+#### 🔭 Atualmente trabalho com tecnologias do Ecosistema Big Data. Tenho a Engenharia de Dados como objetivo profisional.
+  
+  
 <!--
 **claudiors/claudiors** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
