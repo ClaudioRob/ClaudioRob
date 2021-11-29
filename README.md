@@ -1,9 +1,8 @@
 ### :stuck_out_tongue_winking_eye: Olá, seja bem-vindo!
 
-#### "<i>... seu trabalho é encontrar algo que você seja bom e depois gastar centenas de horas, e aplicar toda sua perseverança, sacrifício e dedicação para lidar com coisas difíceis e se tornar ótimo naquilo." 
-#### :star: Scott Galloway<i>
+#### "<i>... seu trabalho é encontrar algo que você seja bom e depois gastar centenas de horas, e aplicar toda sua perseverança, sacrifício e dedicação para lidar com coisas difíceis e se tornar ótimo naquilo."  :star: Scott Galloway<i>
 
-#### 🔭 Analista Sênior atualmente trabalhando com tecnologias do Ecosistema Big Data. Tenho a Engenharia de Dados como objetivo profisional.
+#### 🔭 Analista Sênior atualmente trabalhando com tecnologias do Ecosistema Big Data. Tenho a Engenharia de Dados como objetivo profisional. E para isso sigo em busca de constante aprendizado.
   
   
 <!--
