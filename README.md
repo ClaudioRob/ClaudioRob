@@ -2,11 +2,13 @@
 
 #### "<i>... seu trabalho é encontrar algo que você seja bom e depois gastar centenas de horas, e aplicar toda sua perseverança, sacrifício e dedicação para lidar com coisas difíceis e se tornar ótimo naquilo."  :star: Scott Galloway </i>
 
-#### 🔭 Profissional com experiência no ambiente Microsoft Azure Cloud e Plataforma Databricks. Sólidos conhecimentos em Azure Data Lake, Azure Databricks, Data Factory, Synapse Analytics e SQL Database, Databricks SQL Lakehouse, Delta Tables, Unity Catalog e Rest API. Responsável por garantir a qualidade, consistência e confiabilidade dos dados, realizando processos de transformação e integração de dados. Criação de modelos de armazenamento e recuperação de dados mais eficientes. Implementação de medidas de segurança de acordo com os padrões legais e regulatórios. 
+#### 🔭 Profissional certificado Azure Data Engineer com experiência em Soluções Azure Cloud, Databricks e Big Data. Responsável pela Infraestrutura e Governança de Dados em Ambientes On Premisses e Cloud. Responsável por garantir a qualidade da Modelagem, Integração e Visualização dos Dados em Operações de ETL e ELT. Controle de Segurança na acessibilidade e integridade das informações. 
 
-#### Conhecimento proficiente de linguagens de programação como Python, SQL, PySpark e Scala. Habilidades no ecossistema Big Data em ferramentas como Haddop, Hive, Sqoop. Git, DevOps, Containers e metodologias Ágeis. Capacidade de liderança.
+#### Desenvolvimento e manutenção de estruturas de Pipelines com Integração Contínua CI/CD e Testes Automatizados, planejamento de Arquitetura, composição de Data Warehouse e Data Lakes. Testes de Desempenho e Requisitos de Infraestrutura dos Dados alinhados às necessidades da Aplicação.
 
-#### Outras ferramentas: MongoDB, dbt, Snowflake, MySql, PostgreSQL, Oracle, Docker, Airflow, Control-M, Jenkins, TortoiseSVN. Modelagem de dados e processos de BI utilizando o MS Integration Service, Pentaho, Power BI, Apache Hop, Apache Beam.
+#### Hard Skills Azure Databricks, Hadoop, Hive, MapReduce, MongoDB, DBT, Snowflake, MySql, PostgreSQL, Oracle, Docker, Airflow, Control-M, Jenkins, TortoiseSVN. MS Integration Service, Pentaho, Power BI, Apache Hop, Apache Beam, Git Hub.
+
+#### Confortável trabalhando com equipes multidisciplinares, metodologias Ágeis, ativo em reuniões para tomada de decisões, aplicação e recepção de feedback corporativo. Inglês Nível B1 apto a ler, escrever e participar de reuniões online.
   
 ### Ferramentas que trabalho
 
