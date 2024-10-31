@@ -4,11 +4,11 @@
 
 #### 🔭 Profissional certificado Azure Data Engineer com experiência em Soluções Azure Cloud, Databricks e Big Data. Responsável pela Infraestrutura e Governança de Dados em Ambientes On Premisses e Cloud. Responsável por garantir a qualidade da Modelagem, Integração e Visualização dos Dados em Operações de ETL e ELT. Controle de Segurança na acessibilidade e integridade das informações. 
 
-#### Desenvolvimento e manutenção de estruturas de Pipelines com Integração Contínua CI/CD e Testes Automatizados, planejamento de Arquitetura, composição de Data Warehouse e Data Lakes. Testes de Desempenho e Requisitos de Infraestrutura dos Dados alinhados às necessidades da Aplicação.
+#### Desenvolvimento e manutenção de estruturas de Pipelines com Integração Contínua CI/CD e Testes Automatizados, Arquitetura de Dados, composição de Data Warehouse e Data Lakes. Linguagens de programação SQL, Python, PySpark, Scala, Shell Script. Banco de dados SQL e NOSql como Oracle, SQL Server, MySQL, Postgres SQL, MongoDB, 
 
-#### Hard Skills Azure Databricks, Hadoop, Hive, MapReduce, MongoDB, DBT, Snowflake, MySql, PostgreSQL, Oracle, Docker, Airflow, Control-M, Jenkins, TortoiseSVN. MS Integration Service, Pentaho, Power BI, Apache Hop, Apache Beam, Git Hub.
+#### Hard Skills Cloud Azure Databricks, Delta Live Tables, Unity Catalog, WorkFlows, Data Factory, Synapse Analytics, Azure Functions, REST Full API's, Postman, PyTest, Hadoop, Hive, MapReduce, MongoDB, DBT, Snowflake, MySql, PostgreSQL, Oracle, Docker, Airflow, Control-M, Jenkins, TortoiseSVN, MS SSIS, Pentaho, Power BI, Apache Hop, Apache Beam, GitHub, GitLab, Maestro, Blaze, Oxigen, Astronomer, Python Astro-SDK.
 
-#### Confortável trabalhando com equipes multidisciplinares, metodologias Ágeis, ativo em reuniões para tomada de decisões, aplicação e recepção de feedback corporativo. Inglês Nível B1 apto a ler, escrever e participar de reuniões online.
+#### Confortável trabalhando com equipes multidisciplinares, metodologias Ágeis, ativo em reuniões para tomada de decisões, aplicação e recepção de feedback corporativo. Inglês Nível B2 apto a ler, escrever e participar de reuniões online.
   
 ### Ferramentas que trabalho
 
