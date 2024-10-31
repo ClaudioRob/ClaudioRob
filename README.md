@@ -12,4 +12,4 @@
   
 ### Ferramentas que trabalho
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,gcp,azure,python,bash,docker,eclipse,mongodb,git,github,gitlab,jenkins,linux,mysql,postgres,powershell,&perline=20)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,gcp,azure,python,bash,docker,eclipse,mongodb,git,github,gitlab,jenkins,linux,mysql,postgres,powershell,maestro,blaze,oxigen&perline=20)](https://skillicons.dev)
