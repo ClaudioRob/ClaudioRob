@@ -2,7 +2,7 @@
 
 #### "<i>... seu trabalho é encontrar algo que você seja bom e depois gastar centenas de horas, e aplicar toda sua perseverança, sacrifício e dedicação para lidar com coisas difíceis e se tornar ótimo naquilo."  :star: Scott Galloway </i>
 
-#### 🔭 Profissional certificado Azure Data Engineer com experiência em Soluções Azure Cloud, Databricks e Big Data. Responsável pela Infraestrutura e Governança de Dados em Ambientes On Premisses e Cloud. Responsável por garantir a qualidade da Modelagem, Integração e Visualização dos Dados em Operações de ETL e ELT. Controle de Segurança na acessibilidade e integridade das informações. 
+#### 🔭 Como profissional da área de tecnologia com +15 anos de experiência, formado em Administração de Empresas e Pós-Graduado em Sistemas de Banco de Dados, possuo comprovada experiência para atuar em ambientes Multicloud e On Premisses. Apoio nas definições técnicas do ecossistema de Big Data, processos de ingestão, tratamento, controle/segurança e disponibilização de dados. Certificações técnicas em Azure, AWS, GCP, Databricks e desenvolvimento de habilidades comportamentais. 
 
 #### Desenvolvimento e manutenção de estruturas de Pipelines com Integração Contínua CI/CD e Testes Automatizados, Arquitetura de Dados, composição de Data Warehouse e Data Lakes. Linguagens de programação SQL, Python, PySpark, Scala, Shell Script. Banco de dados SQL e NOSql como Oracle, SQL Server, MySQL, Postgres SQL, MongoDB, 
 
